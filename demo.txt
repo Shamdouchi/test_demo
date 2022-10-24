@@ -1,4 +1,7 @@
 fichier modifié 10
+fichier modifié 7
+fichier modifié 8
+>>>>>>> d9f535d3151e67790142e1cbfb2e670791f3d8ef
 ²fichier modifi
 Test réalisé par otmane el optmani
 je suis mohamed
