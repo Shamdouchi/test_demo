@@ -1,8 +1,5 @@
-fichier modifié 4
+fichier modifié 7
 ²fichier modifi
 Test réalisé par otmane el optmani
-<<<<<<< HEAD
 je suis mohamed
-=======
 je suis otmane
->>>>>>> 18bfabfb6903fb8b248fde356e43983496625fff
